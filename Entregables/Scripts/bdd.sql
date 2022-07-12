@@ -1,0 +1,1 @@
+CREATE DATABASE Competitividad_DataLake
